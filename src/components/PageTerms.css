@@ -1,0 +1,26 @@
+.PageTerms {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex: 1;
+  text-align: left;
+  background-color: #fff;
+}
+.PageTerms-inner {
+  max-width: 1000px;
+  padding: 2em 1em;
+  margin: 0 auto;
+}
+.PageTerms-section {
+  margin-bottom: 2em;
+}
+.PageTerms-headline {
+  margin-bottom: 1em;
+}
+.PageTerms-blurb {
+  margin-bottom: 1em;
+}
+.PageTerms-section:last-child,
+.PageTerms-blurb:last-child {
+  margin-bottom: 0;
+}

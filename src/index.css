@@ -1,0 +1,135 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Lato", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #fff;
+  font-size: 16px;
+  letter-spacing: 0.05em;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+code {
+  font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+  font-size: 0.8em;
+}
+
+/* AnchorText */
+.AnchorText {
+  cursor: pointer;
+  background-color: transparent;
+  border: transparent;
+  font-weight: 700;
+  color: #000;
+  /* text-decoration: none; */
+}
+.AnchorText:focus,
+.AnchorText:hover {
+  text-decoration: underline;
+}
+
+.TextIcon::before {
+  content: "";
+  display: inline-block;
+  background-size: contain;
+  background-position: center;
+  aspect-ratio: 1;
+  width: 1em;
+  margin: -0.2em 0.2em 0;
+  vertical-align: middle;
+}
+.TextIcon--discord::before {
+  background-image: url("http://www.google.com/s2/favicons?domain=https://discord.com");
+  margin: -0.3em 0.3em 0;
+}
+.TextIcon--twitter::before {
+  background-image: url("http://www.google.com/s2/favicons?domain=https://twitter.com");
+}
+.TextIcon--opensea::before {
+  background-image: url("http://www.google.com/s2/favicons?domain=https://opensea.io");
+}
+.TextIcon--pinata::before {
+  background-image: url("http://www.google.com/s2/favicons?domain=https://www.pinata.cloud/");
+}
+
+/* Button */
+.Button {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+  color: #fff;
+  background-color: #555;
+  transition: background 0.2s ease 0s;
+  padding: 0.5em 26px;
+  border-radius: 54px;
+  overflow: hidden;
+  border: 0;
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+  font-weight: 400;
+  font-family: "Lato";
+  height: 60px;
+}
+.Button::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 150%;
+  width: 200%;
+  height: 100%;
+  transform: skewX(-20deg);
+  background-image: linear-gradient(
+    to right,
+    transparent,
+    rgba(255, 255, 255, 0.25),
+    transparent
+  );
+}
+.Button:focus,
+.Button:hover,
+.Button--loading {
+  background: #777;
+  transition-delay: 0.25s;
+}
+.Button:focus::after,
+.Button:hover::after,
+.Button--loading::after {
+  animation: shine 0.5s cubic-bezier(0.01, 0.56, 1, 1);
+}
+.Button--loading::after {
+  animation-iteration-count: infinite;
+}
+@keyframes shine {
+  100% {
+    left: -200%;
+  }
+}
+.Button--disabled,
+.Button--disabled:hover,
+.Button--disabled:focus {
+  cursor: default;
+  background-color: #e9bed4;
+  color: #eee;
+}
+.Button--disabled:focus::after,
+.Button--disabled:hover::after {
+  animation: none;
+  background-image: none;
+}
+
+/* ButtonText */
+.ButtonText {
+  cursor: pointer;
+  background-color: transparent;
+  border: transparent;
+  font-weight: 700;
+}
+.ButtonText:focus,
+.ButtonText:hover {
+  text-decoration: underline;
+}

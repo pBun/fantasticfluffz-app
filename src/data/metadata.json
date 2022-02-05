@@ -1,0 +1,3320 @@
+{
+    "all": [
+        {
+            "tokenId": "0",
+            "image": "_BASEIMGPATH_0.png",
+            "name": "Fantastic Fluffz #0",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "PURPLE"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "WHITE"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Beanie Orange"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Goth Purple"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Flower Necklace 2"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Black"
+                }
+            ]
+        },
+        {
+            "tokenId": "1",
+            "image": "_BASEIMGPATH_1.png",
+            "name": "Fantastic Fluffz #1",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "PURPLE"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Pink"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Bonnet Blue"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Sweater Green"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Flower Necklace 1"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Red"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Purple"
+                }
+            ]
+        },
+        {
+            "tokenId": "2",
+            "image": "_BASEIMGPATH_2.png",
+            "name": "Fantastic Fluffz #2",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "Vinyl Heaven"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Black"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Dad Hat Orange"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Goth Red"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Disco Ball 3"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Purple"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Black"
+                }
+            ]
+        },
+        {
+            "tokenId": "3",
+            "image": "_BASEIMGPATH_3.png",
+            "name": "Fantastic Fluffz #3",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "PURPLE"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Black"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Ribbon Blue"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Sweater Red"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Disco Ball 2"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Pink"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Purple"
+                }
+            ]
+        },
+        {
+            "tokenId": "4",
+            "image": "_BASEIMGPATH_4.png",
+            "name": "Fantastic Fluffz #4",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "GREY "
+                },
+                {
+                    "trait_type": "body",
+                    "value": "WHITE"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Beanie Orange"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Goth Blue"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Disco Ball 2"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Pink"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Red "
+                }
+            ]
+        },
+        {
+            "tokenId": "5",
+            "image": "_BASEIMGPATH_5.png",
+            "name": "Fantastic Fluffz #5",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "HOT PINK"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Blue"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Dad Hat Pink"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "COOGI Sweater 2"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Flower Necklace 2"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Silver"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Black2"
+                }
+            ]
+        },
+        {
+            "tokenId": "6",
+            "image": "_BASEIMGPATH_6.png",
+            "name": "Fantastic Fluffz #6",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "BLUE"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Silver"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Tux Red "
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Flower Necklace 1"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Red"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Purple"
+                }
+            ]
+        },
+        {
+            "tokenId": "7",
+            "image": "_BASEIMGPATH_7.png",
+            "name": "Fantastic Fluffz #7",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "PURPLE"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Silver"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Ribbon Purple"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Tux Black"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Disco Ball 1"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Silver"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Purple"
+                }
+            ]
+        },
+        {
+            "tokenId": "8",
+            "image": "_BASEIMGPATH_8.png",
+            "name": "Fantastic Fluffz #8",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "NEWSPAPER"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "WHITE"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Bonnet Pink"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Goth Grey"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Disco Ball 1"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Silver"
+                }
+            ]
+        },
+        {
+            "tokenId": "9",
+            "image": "_BASEIMGPATH_9.png",
+            "name": "Fantastic Fluffz #9",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "Forest"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Silver"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Bonnet Pink"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Goth Purple"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Disco Ball 1"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Purple"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Pink"
+                }
+            ]
+        },
+        {
+            "tokenId": "10",
+            "image": "_BASEIMGPATH_10.png",
+            "name": "Fantastic Fluffz #10",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "Vinyl Heaven"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Brown"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Ribbon Green "
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Tux Blue"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Disco Ball 2"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Turquoise"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Black"
+                }
+            ]
+        },
+        {
+            "tokenId": "11",
+            "image": "_BASEIMGPATH_11.png",
+            "name": "Fantastic Fluffz #11",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "ORANGE"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Black"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Bonnet Red"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Goth Blue"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Gold Chains"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Black2"
+                }
+            ]
+        },
+        {
+            "tokenId": "12",
+            "image": "_BASEIMGPATH_12.png",
+            "name": "Fantastic Fluffz #12",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "Forest"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Silver"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Dad Hat Red"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Goth Red"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Silver"
+                }
+            ]
+        },
+        {
+            "tokenId": "13",
+            "image": "_BASEIMGPATH_13.png",
+            "name": "Fantastic Fluffz #13",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "BLUE"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Brown"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Beanie Yellow"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Sweater Red"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Disco Ball 1"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Purple"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Pink"
+                }
+            ]
+        },
+        {
+            "tokenId": "14",
+            "image": "_BASEIMGPATH_14.png",
+            "name": "Fantastic Fluffz #14",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "Vinyl Heaven"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Pink"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Dad Hat Pink"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Tux Blue"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Disco Ball 1"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Purple"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Pink"
+                }
+            ]
+        },
+        {
+            "tokenId": "15",
+            "image": "_BASEIMGPATH_15.png",
+            "name": "Fantastic Fluffz #15",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "GREY "
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Black"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Dad Hat Pink"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Goth Purple"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Gold Chains"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Turquoise"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Pink"
+                }
+            ]
+        },
+        {
+            "tokenId": "16",
+            "image": "_BASEIMGPATH_16.png",
+            "name": "Fantastic Fluffz #16",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "LoveSongs"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "WHITE"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Bonnet Red"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Sweater Red"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Disco Ball 1"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Purple"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Red "
+                }
+            ]
+        },
+        {
+            "tokenId": "17",
+            "image": "_BASEIMGPATH_17.png",
+            "name": "Fantastic Fluffz #17",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "NEON "
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Brown"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Mad Hatter"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Disco Ball 2"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Red"
+                }
+            ]
+        },
+        {
+            "tokenId": "18",
+            "image": "_BASEIMGPATH_18.png",
+            "name": "Fantastic Fluffz #18",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "Roses"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Black"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Ribbon Green "
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Goth Blue"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Flower Necklace 1"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Red"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Black2"
+                }
+            ]
+        },
+        {
+            "tokenId": "19",
+            "image": "_BASEIMGPATH_19.png",
+            "name": "Fantastic Fluffz #19",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "NEWSPAPER"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Silver"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Ribbon Green "
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Sweater Red"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Disco Ball 1"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Silver"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Red "
+                }
+            ]
+        },
+        {
+            "tokenId": "20",
+            "image": "_BASEIMGPATH_20.png",
+            "name": "Fantastic Fluffz #20",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "LoveSongs"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Blue"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Dad Hat Blue"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Skully "
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Disco Ball 3"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Turquoise"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Red2"
+                }
+            ]
+        },
+        {
+            "tokenId": "21",
+            "image": "_BASEIMGPATH_21.png",
+            "name": "Fantastic Fluffz #21",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "NEWSPAPER"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Black"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Flower Necklace 1"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Red"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Red "
+                },
+                {
+                    "trait_type": "special",
+                    "value": "Wizard"
+                }
+            ]
+        },
+        {
+            "tokenId": "22",
+            "image": "_BASEIMGPATH_22.png",
+            "name": "Fantastic Fluffz #22",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "Roses"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Blue"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Bonnet Pink"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Red"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Blue"
+                }
+            ]
+        },
+        {
+            "tokenId": "23",
+            "image": "_BASEIMGPATH_23.png",
+            "name": "Fantastic Fluffz #23",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "PURPLE"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "WHITE"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Beanie Orange"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Goth Purple"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Pink"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Black2"
+                }
+            ]
+        },
+        {
+            "tokenId": "24",
+            "image": "_BASEIMGPATH_24.png",
+            "name": "Fantastic Fluffz #24",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "LoveSongs"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Black"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Dad Hat Blue"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Goth Red"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Purple"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Red "
+                }
+            ]
+        },
+        {
+            "tokenId": "25",
+            "image": "_BASEIMGPATH_25.png",
+            "name": "Fantastic Fluffz #25",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "GREY "
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Black"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Ribbon Purple"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "COOGI Sweater 2"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Flower Necklace 1"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Pink"
+                }
+            ]
+        },
+        {
+            "tokenId": "26",
+            "image": "_BASEIMGPATH_26.png",
+            "name": "Fantastic Fluffz #26",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "HOT PINK"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Blue"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Bonnet Blue"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Tux Red "
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Disco Ball 3"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Purple"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Black"
+                }
+            ]
+        },
+        {
+            "tokenId": "27",
+            "image": "_BASEIMGPATH_27.png",
+            "name": "Fantastic Fluffz #27",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "NEWSPAPER"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Silver"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Beanie Orange"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Goth Blue"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Disco Ball 1"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Turquoise"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Red "
+                }
+            ]
+        },
+        {
+            "tokenId": "28",
+            "image": "_BASEIMGPATH_28.png",
+            "name": "Fantastic Fluffz #28",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "GREY "
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Brown"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Ribbon Green "
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "COOGI Sweater 1"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Disco Ball 1"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Red"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Black"
+                }
+            ]
+        },
+        {
+            "tokenId": "29",
+            "image": "_BASEIMGPATH_29.png",
+            "name": "Fantastic Fluffz #29",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "GREY "
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Blue"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Dad Hat Pink"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Punk"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Disco Ball 3"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Purple"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Purple"
+                }
+            ]
+        },
+        {
+            "tokenId": "30",
+            "image": "_BASEIMGPATH_30.png",
+            "name": "Fantastic Fluffz #30",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "BLUE"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Brown"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Beanie Green"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Goth Blue"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Disco Ball 1"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Black2"
+                }
+            ]
+        },
+        {
+            "tokenId": "31",
+            "image": "_BASEIMGPATH_31.png",
+            "name": "Fantastic Fluffz #31",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "LoveSongs"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Brown"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Ribbon Red"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "COOGI Sweater 2"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Disco Ball 2"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Purple"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Black2"
+                }
+            ]
+        },
+        {
+            "tokenId": "32",
+            "image": "_BASEIMGPATH_32.png",
+            "name": "Fantastic Fluffz #32",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "GREY "
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Brown"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Ribbon Blue"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Skully "
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Silver"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Pink"
+                }
+            ]
+        },
+        {
+            "tokenId": "33",
+            "image": "_BASEIMGPATH_33.png",
+            "name": "Fantastic Fluffz #33",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "PURPLE"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Silver"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Ribbon Red"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Goth Green"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Disco Ball 1"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Pink"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Pink"
+                }
+            ]
+        },
+        {
+            "tokenId": "34",
+            "image": "_BASEIMGPATH_34.png",
+            "name": "Fantastic Fluffz #34",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "PURPLE"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Brown"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Dad Hat Green"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Sweater Green"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Flower Necklace 2"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Silver"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Blue"
+                }
+            ]
+        },
+        {
+            "tokenId": "35",
+            "image": "_BASEIMGPATH_35.png",
+            "name": "Fantastic Fluffz #35",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "Vinyl Heaven"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Blue"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Gold Chains"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Red"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Red2"
+                },
+                {
+                    "trait_type": "special",
+                    "value": "Wizard"
+                }
+            ]
+        },
+        {
+            "tokenId": "36",
+            "image": "_BASEIMGPATH_36.png",
+            "name": "Fantastic Fluffz #36",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "HOT PINK"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Blue"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Bonnet Red"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Tux Blue"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Flower Necklace 2"
+                }
+            ]
+        },
+        {
+            "tokenId": "37",
+            "image": "_BASEIMGPATH_37.png",
+            "name": "Fantastic Fluffz #37",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "NEWSPAPER"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Blue"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Ribbon Green "
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Gold Chains"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Turquoise"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Red "
+                }
+            ]
+        },
+        {
+            "tokenId": "38",
+            "image": "_BASEIMGPATH_38.png",
+            "name": "Fantastic Fluffz #38",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "LA"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Silver"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Mad Hatter"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Goth Green"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Disco Ball 3"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Red "
+                }
+            ]
+        },
+        {
+            "tokenId": "39",
+            "image": "_BASEIMGPATH_39.png",
+            "name": "Fantastic Fluffz #39",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "ORANGE"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Brown"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Beanie Green"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Disco Ball 2"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Silver"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Black"
+                }
+            ]
+        },
+        {
+            "tokenId": "40",
+            "image": "_BASEIMGPATH_40.png",
+            "name": "Fantastic Fluffz #40",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "GREY "
+                },
+                {
+                    "trait_type": "body",
+                    "value": "WHITE"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Dad Hat Pink"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Punk"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Flower Necklace 2"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Silver"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Blue"
+                }
+            ]
+        },
+        {
+            "tokenId": "41",
+            "image": "_BASEIMGPATH_41.png",
+            "name": "Fantastic Fluffz #41",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "LA"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Black"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Ribbon Red"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Skully "
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Disco Ball 3"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Turquoise"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Black2"
+                }
+            ]
+        },
+        {
+            "tokenId": "42",
+            "image": "_BASEIMGPATH_42.png",
+            "name": "Fantastic Fluffz #42",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "LoveSongs"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Blue"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Ribbon Purple"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Skully "
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Gold Chains"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Purple"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Purple"
+                }
+            ]
+        },
+        {
+            "tokenId": "43",
+            "image": "_BASEIMGPATH_43.png",
+            "name": "Fantastic Fluffz #43",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "BLUE"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Black"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Beanie Orange"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Goth Grey"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Disco Ball 1"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Silver"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Pink"
+                }
+            ]
+        },
+        {
+            "tokenId": "44",
+            "image": "_BASEIMGPATH_44.png",
+            "name": "Fantastic Fluffz #44",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "NEWSPAPER"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "WHITE"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Ribbon Red"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Goth Blue"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Flower Necklace 1"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Red"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Blue"
+                }
+            ]
+        },
+        {
+            "tokenId": "45",
+            "image": "_BASEIMGPATH_45.png",
+            "name": "Fantastic Fluffz #45",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "Forest"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Brown"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Bonnet Blue"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Goth Purple"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Disco Ball 2"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Purple"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Black"
+                }
+            ]
+        },
+        {
+            "tokenId": "46",
+            "image": "_BASEIMGPATH_46.png",
+            "name": "Fantastic Fluffz #46",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "ORANGE"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "WHITE"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Crown"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Disco Ball 1"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Turquoise"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Purple"
+                }
+            ]
+        },
+        {
+            "tokenId": "47",
+            "image": "_BASEIMGPATH_47.png",
+            "name": "Fantastic Fluffz #47",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "NEON "
+                },
+                {
+                    "trait_type": "body",
+                    "value": "WHITE"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Beanie Orange"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Goth Grey"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Gold Chains"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Blue"
+                }
+            ]
+        },
+        {
+            "tokenId": "48",
+            "image": "_BASEIMGPATH_48.png",
+            "name": "Fantastic Fluffz #48",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "PURPLE"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Blue"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Ribbon Blue"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Sweater Blue"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Gold Chains"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Silver"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Blue"
+                }
+            ]
+        },
+        {
+            "tokenId": "49",
+            "image": "_BASEIMGPATH_49.png",
+            "name": "Fantastic Fluffz #49",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "LoveSongs"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Blue"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Dad Hat Pink"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Goth Blue"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Flower Necklace 2"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Purple"
+                }
+            ]
+        },
+        {
+            "tokenId": "50",
+            "image": "_BASEIMGPATH_50.png",
+            "name": "Fantastic Fluffz #50",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "Vinyl Heaven"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Blue"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Beanie Orange"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "COOGI Sweater 1"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Gold Chains"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Silver"
+                }
+            ]
+        },
+        {
+            "tokenId": "51",
+            "image": "_BASEIMGPATH_51.png",
+            "name": "Fantastic Fluffz #51",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "ORANGE"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Blue"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Ribbon Blue"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Tux Red "
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Pink"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Pink"
+                }
+            ]
+        },
+        {
+            "tokenId": "52",
+            "image": "_BASEIMGPATH_52.png",
+            "name": "Fantastic Fluffz #52",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "NEON "
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Silver"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Ribbon Green "
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Goth Blue"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Red2"
+                }
+            ]
+        },
+        {
+            "tokenId": "53",
+            "image": "_BASEIMGPATH_53.png",
+            "name": "Fantastic Fluffz #53",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "Forest"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Blue"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Beanie Green"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Goth Grey"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Disco Ball 1"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Silver"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Red2"
+                }
+            ]
+        },
+        {
+            "tokenId": "54",
+            "image": "_BASEIMGPATH_54.png",
+            "name": "Fantastic Fluffz #54",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "Roses"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Silver"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Dad Hat Green"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Punk"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Flower Necklace 2"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Pink"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Purple"
+                }
+            ]
+        },
+        {
+            "tokenId": "55",
+            "image": "_BASEIMGPATH_55.png",
+            "name": "Fantastic Fluffz #55",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "Roses"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Pink"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Bonnet Pink"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Goth Purple"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Disco Ball 2"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Pink"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Pink"
+                }
+            ]
+        },
+        {
+            "tokenId": "56",
+            "image": "_BASEIMGPATH_56.png",
+            "name": "Fantastic Fluffz #56",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "HOT PINK"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Blue"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Beanie Orange"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Sweater Green"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Gold Chains"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Turquoise"
+                }
+            ]
+        },
+        {
+            "tokenId": "57",
+            "image": "_BASEIMGPATH_57.png",
+            "name": "Fantastic Fluffz #57",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "ORANGE"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Black"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Top Hat"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Goth Purple"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Disco Ball 2"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Silver"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Purple"
+                }
+            ]
+        },
+        {
+            "tokenId": "58",
+            "image": "_BASEIMGPATH_58.png",
+            "name": "Fantastic Fluffz #58",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "GREY "
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Blue"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Beanie Yellow"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "COOGI Sweater 2"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Disco Ball 1"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Silver"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Red2"
+                }
+            ]
+        },
+        {
+            "tokenId": "59",
+            "image": "_BASEIMGPATH_59.png",
+            "name": "Fantastic Fluffz #59",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "NEON "
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Blue"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Bonnet Green"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Tux Blue"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Flower Necklace 2"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Silver"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Black"
+                }
+            ]
+        },
+        {
+            "tokenId": "60",
+            "image": "_BASEIMGPATH_60.png",
+            "name": "Fantastic Fluffz #60",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "BLUE"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Blue"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Beanie Green"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Goth Green"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Flower Necklace 1"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Turquoise"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Red "
+                }
+            ]
+        },
+        {
+            "tokenId": "61",
+            "image": "_BASEIMGPATH_61.png",
+            "name": "Fantastic Fluffz #61",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "LoveSongs"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Blue"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Dad Hat Red"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "COOGI Sweater 1"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Disco Ball 3"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Pink"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Black"
+                }
+            ]
+        },
+        {
+            "tokenId": "62",
+            "image": "_BASEIMGPATH_62.png",
+            "name": "Fantastic Fluffz #62",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "PURPLE"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Brown"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Silver"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Black2"
+                },
+                {
+                    "trait_type": "special",
+                    "value": "Wizard"
+                }
+            ]
+        },
+        {
+            "tokenId": "63",
+            "image": "_BASEIMGPATH_63.png",
+            "name": "Fantastic Fluffz #63",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "Vinyl Heaven"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Black"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Dad Hat Red"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Tux Black"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Disco Ball 3"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Red"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Blue"
+                }
+            ]
+        },
+        {
+            "tokenId": "64",
+            "image": "_BASEIMGPATH_64.png",
+            "name": "Fantastic Fluffz #64",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "HOT PINK"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Blue"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Bonnet Red"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Sweater Blue"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Disco Ball 1"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Purple"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Pink"
+                }
+            ]
+        },
+        {
+            "tokenId": "65",
+            "image": "_BASEIMGPATH_65.png",
+            "name": "Fantastic Fluffz #65",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "LoveSongs"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Brown"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Disco Ball 1"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Silver"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Pink"
+                },
+                {
+                    "trait_type": "special",
+                    "value": "Wizard"
+                }
+            ]
+        },
+        {
+            "tokenId": "66",
+            "image": "_BASEIMGPATH_66.png",
+            "name": "Fantastic Fluffz #66",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "HOT PINK"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Blue"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Bonnet Blue"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "COOGI Sweater 2"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Flower Necklace 2"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Pink"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Blue"
+                }
+            ]
+        },
+        {
+            "tokenId": "67",
+            "image": "_BASEIMGPATH_67.png",
+            "name": "Fantastic Fluffz #67",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "BLUE"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "WHITE"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Beanie Yellow"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Sweater Red"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Disco Ball 3"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Purple"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Red "
+                }
+            ]
+        },
+        {
+            "tokenId": "68",
+            "image": "_BASEIMGPATH_68.png",
+            "name": "Fantastic Fluffz #68",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "Forest"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Pink"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Dad Hat Pink"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "COOGI Sweater 2"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Disco Ball 2"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Purple"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Red2"
+                }
+            ]
+        },
+        {
+            "tokenId": "69",
+            "image": "_BASEIMGPATH_69.png",
+            "name": "Fantastic Fluffz #69",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "Forest"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "WHITE"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Bonnet Pink"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Skully "
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Flower Necklace 2"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Turquoise"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Red "
+                }
+            ]
+        },
+        {
+            "tokenId": "70",
+            "image": "_BASEIMGPATH_70.png",
+            "name": "Fantastic Fluffz #70",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "Vinyl Heaven"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Silver"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Dad Hat Pink"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Goth Green"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Disco Ball 1"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Purple"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Purple"
+                }
+            ]
+        },
+        {
+            "tokenId": "71",
+            "image": "_BASEIMGPATH_71.png",
+            "name": "Fantastic Fluffz #71",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "PURPLE"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "WHITE"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Unicorn"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "COOGI Sweater 1"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Disco Ball 2"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Silver"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Black"
+                }
+            ]
+        },
+        {
+            "tokenId": "72",
+            "image": "_BASEIMGPATH_72.png",
+            "name": "Fantastic Fluffz #72",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "BLUE"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Blue"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Goth Green"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Gold Chains"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Pink"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Red2"
+                }
+            ]
+        },
+        {
+            "tokenId": "73",
+            "image": "_BASEIMGPATH_73.png",
+            "name": "Fantastic Fluffz #73",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "Roses"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "WHITE"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Ribbon Blue"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Sweater Green"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Red "
+                }
+            ]
+        },
+        {
+            "tokenId": "74",
+            "image": "_BASEIMGPATH_74.png",
+            "name": "Fantastic Fluffz #74",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "GREY "
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Black"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Dad Hat Orange"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Skully "
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Flower Necklace 2"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Purple"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Black"
+                }
+            ]
+        },
+        {
+            "tokenId": "75",
+            "image": "_BASEIMGPATH_75.png",
+            "name": "Fantastic Fluffz #75",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "Roses"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Blue"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Ribbon Blue"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Gold Chains"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Pink"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Blue"
+                }
+            ]
+        },
+        {
+            "tokenId": "76",
+            "image": "_BASEIMGPATH_76.png",
+            "name": "Fantastic Fluffz #76",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "LA"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Pink"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Ribbon Green "
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Flower Necklace 1"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Purple"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Purple"
+                }
+            ]
+        },
+        {
+            "tokenId": "77",
+            "image": "_BASEIMGPATH_77.png",
+            "name": "Fantastic Fluffz #77",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "LoveSongs"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Brown"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Beanie Yellow"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Tux Black"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Gold Chains"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Turquoise"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Pink"
+                }
+            ]
+        },
+        {
+            "tokenId": "78",
+            "image": "_BASEIMGPATH_78.png",
+            "name": "Fantastic Fluffz #78",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "NEWSPAPER"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Silver"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Dad Hat Pink"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Goth Red"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Flower Necklace 1"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Turquoise"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Red2"
+                }
+            ]
+        },
+        {
+            "tokenId": "79",
+            "image": "_BASEIMGPATH_79.png",
+            "name": "Fantastic Fluffz #79",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "Roses"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "WHITE"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Mad Hatter"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "COOGI Sweater 2"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Gold Chains"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Turquoise"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Blue"
+                }
+            ]
+        },
+        {
+            "tokenId": "80",
+            "image": "_BASEIMGPATH_80.png",
+            "name": "Fantastic Fluffz #80",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "LA"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Brown"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Mad Hatter"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Skully "
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Flower Necklace 1"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Pink"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Purple"
+                }
+            ]
+        },
+        {
+            "tokenId": "81",
+            "image": "_BASEIMGPATH_81.png",
+            "name": "Fantastic Fluffz #81",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "Roses"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Silver"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Flower Necklace 2"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Black"
+                },
+                {
+                    "trait_type": "special",
+                    "value": "Wizard"
+                }
+            ]
+        },
+        {
+            "tokenId": "82",
+            "image": "_BASEIMGPATH_82.png",
+            "name": "Fantastic Fluffz #82",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "Forest"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Pink"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Ribbon Purple"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "COOGI Sweater 1"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Gold Chains"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Purple"
+                }
+            ]
+        },
+        {
+            "tokenId": "83",
+            "image": "_BASEIMGPATH_83.png",
+            "name": "Fantastic Fluffz #83",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "GREY "
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Pink"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Beanie Green"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Skully "
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Flower Necklace 2"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Pink"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Red "
+                }
+            ]
+        },
+        {
+            "tokenId": "84",
+            "image": "_BASEIMGPATH_84.png",
+            "name": "Fantastic Fluffz #84",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "NEWSPAPER"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Blue"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Beanie Orange"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Goth Green"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Disco Ball 1"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Pink"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Purple"
+                }
+            ]
+        },
+        {
+            "tokenId": "85",
+            "image": "_BASEIMGPATH_85.png",
+            "name": "Fantastic Fluffz #85",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "Forest"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Silver"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Bonnet Green"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Goth Green"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Flower Necklace 2"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Silver"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Purple"
+                }
+            ]
+        },
+        {
+            "tokenId": "86",
+            "image": "_BASEIMGPATH_86.png",
+            "name": "Fantastic Fluffz #86",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "BLUE"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Silver"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Ribbon Green "
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "COOGI Sweater 1"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Gold Chains"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Red"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Purple"
+                }
+            ]
+        },
+        {
+            "tokenId": "87",
+            "image": "_BASEIMGPATH_87.png",
+            "name": "Fantastic Fluffz #87",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "ORANGE"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Brown"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Beanie Yellow"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Sweater Green"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Disco Ball 1"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Red "
+                }
+            ]
+        },
+        {
+            "tokenId": "88",
+            "image": "_BASEIMGPATH_88.png",
+            "name": "Fantastic Fluffz #88",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "NEON "
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Pink"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Beanie Green"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Sweater Blue"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Gold Chains"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Purple"
+                }
+            ]
+        },
+        {
+            "tokenId": "89",
+            "image": "_BASEIMGPATH_89.png",
+            "name": "Fantastic Fluffz #89",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "LoveSongs"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Black"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Dad Hat Red"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Goth Grey"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Disco Ball 3"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Red"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Red "
+                }
+            ]
+        },
+        {
+            "tokenId": "90",
+            "image": "_BASEIMGPATH_90.png",
+            "name": "Fantastic Fluffz #90",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "Roses"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Black"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Dad Hat Orange"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Goth Grey"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Flower Necklace 1"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Silver"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Purple"
+                }
+            ]
+        },
+        {
+            "tokenId": "91",
+            "image": "_BASEIMGPATH_91.png",
+            "name": "Fantastic Fluffz #91",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "GREY "
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Silver"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Bonnet Blue"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Sweater Green"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Disco Ball 1"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Purple"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Pink"
+                }
+            ]
+        },
+        {
+            "tokenId": "92",
+            "image": "_BASEIMGPATH_92.png",
+            "name": "Fantastic Fluffz #92",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "LA"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Silver"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Bonnet Red"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Goth Purple"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Flower Necklace 2"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Silver"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Pink"
+                }
+            ]
+        },
+        {
+            "tokenId": "93",
+            "image": "_BASEIMGPATH_93.png",
+            "name": "Fantastic Fluffz #93",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "NEON "
+                },
+                {
+                    "trait_type": "body",
+                    "value": "WHITE"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Dad Hat Green"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Sweater Blue"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Flower Necklace 1"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Silver"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Black"
+                }
+            ]
+        },
+        {
+            "tokenId": "94",
+            "image": "_BASEIMGPATH_94.png",
+            "name": "Fantastic Fluffz #94",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "GREY "
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Silver"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Bonnet Pink"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Goth Red"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Gold Chains"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Silver"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Purple"
+                }
+            ]
+        },
+        {
+            "tokenId": "95",
+            "image": "_BASEIMGPATH_95.png",
+            "name": "Fantastic Fluffz #95",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "NEWSPAPER"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "WHITE"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Beanie Green"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Turquoise"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Pink"
+                }
+            ]
+        },
+        {
+            "tokenId": "96",
+            "image": "_BASEIMGPATH_96.png",
+            "name": "Fantastic Fluffz #96",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "Vinyl Heaven"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Black"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Dad Hat Pink"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Skully "
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Flower Necklace 1"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Red"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Blue"
+                }
+            ]
+        },
+        {
+            "tokenId": "97",
+            "image": "_BASEIMGPATH_97.png",
+            "name": "Fantastic Fluffz #97",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "LA"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Blue"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Dad Hat Pink"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Tux Red "
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Turquoise"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Pink"
+                }
+            ]
+        },
+        {
+            "tokenId": "98",
+            "image": "_BASEIMGPATH_98.png",
+            "name": "Fantastic Fluffz #98",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "ORANGE"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "WHITE"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Bonnet Red"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Tux Black"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Flower Necklace 2"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Turquoise"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Red2"
+                }
+            ]
+        },
+        {
+            "tokenId": "99",
+            "image": "_BASEIMGPATH_99.png",
+            "name": "Fantastic Fluffz #99",
+            "attributes": [
+                {
+                    "trait_type": "background",
+                    "value": "HOT PINK"
+                },
+                {
+                    "trait_type": "body",
+                    "value": "Black"
+                },
+                {
+                    "trait_type": "hats",
+                    "value": "Dad Hat Red"
+                },
+                {
+                    "trait_type": "outfits",
+                    "value": "Goth Red"
+                },
+                {
+                    "trait_type": "jewelry",
+                    "value": "Disco Ball 3"
+                },
+                {
+                    "trait_type": "color-tips",
+                    "value": "Hair Red"
+                },
+                {
+                    "trait_type": "glasses",
+                    "value": "Glasses Red "
+                }
+            ]
+        }
+    ]
+}

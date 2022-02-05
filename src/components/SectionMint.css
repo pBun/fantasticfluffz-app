@@ -1,0 +1,87 @@
+.PageHome-section--butts {
+  position: relative;
+}
+.SectionMint {
+  text-align: center;
+}
+.SectionMint-headline {
+  margin-bottom: 1em;
+}
+.SectionMint-section {
+  margin-bottom: 3em;
+  margin-top: 3em;
+}
+.SectionMint-section:last-child {
+  margin-bottom: 0;
+}
+.SectionMint-sectionHeadline {
+  display: block;
+  font-size: 0.8em;
+  font-weight: 300;
+  font-family: "Lato";
+  text-transform: uppercase;
+  margin-bottom: 0.6em;
+}
+.SectionMint-inputNoteWrapper {
+  position: relative;
+  display: inline-block;
+}
+.SectionMint-value {
+  font-size: 1.5em;
+}
+.SectionMint-inputLabel {
+  position: relative;
+  display: inline-block;
+}
+.SectionMint-inputLabel .SectionMint-sectionHeadline {
+  margin-bottom: 1.25em;
+}
+.SectionMint-inputNote {
+  position: absolute;
+  left: 100%;
+  bottom: 0;
+  white-space: nowrap;
+  font-size: 1.5em;
+  font-weight: 700;
+}
+.SectionMint-inputNote::before {
+  content: "x";
+  font-weight: 300;
+  margin: 0 0.333em 0 0.5em;
+}
+.SectionMint-confirm {
+  margin-top: 1.8em;
+}
+.SectionMint-extendedInputInner {
+  background-color: #f2f2f2;
+  padding: 0 1em 0 0.5em;
+  font-size: 16px;
+}
+.SectionMint-input {
+  border: 1px solid #e6e6e6;
+  border-radius: 8px;
+  background-color: transparent;
+  border: 1px solid #000;
+  padding: 1px 2px 1px 0.75em;
+  box-shadow: 0;
+  outline: 0;
+  font-weight: 700;
+}
+.SectionMint-section--connect {
+  margin-top: 0;
+}
+.SectionMint-section--connect .SectionMint-headline {
+  margin-bottom: 2em;
+}
+.SectionMint-message {
+  display: block;
+  font-size: 12px;
+  max-width: 40em;
+  margin: 0 auto;
+}
+.SectionMint-message--error {
+  color: red;
+}
+.SectionMint-message--success {
+  color: green;
+}
