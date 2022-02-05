@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/fantasticfluffz-app/static/css/main.be9627b8.css",
-    "main.js": "/fantasticfluffz-app/static/js/main.946ded0a.js",
+    "main.js": "/fantasticfluffz-app/static/js/main.87d141c2.js",
     "static/media/preview.mp4": "/fantasticfluffz-app/static/media/preview.ddd7264a8ef6724e57e2.mp4",
     "index.html": "/fantasticfluffz-app/index.html",
     "main.be9627b8.css.map": "/fantasticfluffz-app/static/css/main.be9627b8.css.map",
-    "main.946ded0a.js.map": "/fantasticfluffz-app/static/js/main.946ded0a.js.map"
+    "main.87d141c2.js.map": "/fantasticfluffz-app/static/js/main.87d141c2.js.map"
   },
   "entrypoints": [
     "static/css/main.be9627b8.css",
-    "static/js/main.946ded0a.js"
+    "static/js/main.87d141c2.js"
   ]
 }
