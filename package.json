@@ -9,7 +9,7 @@
     "build": "react-app-rewired build",
     "start:contract": "npx hardhat node",
     "build:contract": "npx hardhat compile",
-    "deploy:web": "gh-pages -d build",
+    "deploy:web": "npx gh-pages -d build",
     "deploy:localhost": "npx hardhat run scripts/deployContract.js --network localhost",
     "deploy:ropsten": "npx hardhat run scripts/deployContract.js --network ropsten",
     "deploy:rinkeby": "npx hardhat run scripts/deployContract.js --network rinkeby",
