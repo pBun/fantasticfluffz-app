@@ -14,7 +14,7 @@ import PageProvenance from './PageProvenance';
 function App() {
   useEffect(() => {
     if (document.cookie.split(';').find((c) => c === 'CookieConsent=true')) {
-      ReactGA.initialize('G-E8Y8PVGMG2');
+      ReactGA.initialize('G-E8Y8PVGMG3');
     }
   }, []);
   return (
