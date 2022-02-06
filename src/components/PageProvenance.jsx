@@ -1,7 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import AnchorAddress from './AnchorAddress';
 import imgHashes from '../data/image-hashes.json';
-import cidData from '../data/cids.json';
+import rootCids from '../data/cids/root.json';
+import imgCids from '../data/cids/img.json';
 import appConfig from '../data/app.json';
 import { combineHashes, getProvenance } from '../service/provenance';
 
@@ -52,7 +53,7 @@ function PageProvenance() {
           <p className="PageProvenance-blurb">
             <strong>IPFS CID:</strong>
             {' '}
-            <code>{cidData.rootImg}</code>
+            <code>{rootCids.img}</code>
           </p>
           <p className="PageProvenance-blurb">
             <strong>Final Proof Hash:</strong>
@@ -84,7 +85,7 @@ function PageProvenance() {
                   <tr key={tokenId}>
                     <td><code>{tokenId}</code></td>
                     <td><code>{imgHashes[tokenId]}</code></td>
-                    <td><a href={`${appConfig.BASE_URI}/${cidData[`${tokenId}.png`]}`} target="_blank" rel="noreferrer"><code>{cidData[`${tokenId}.png`]}</code></a></td>
+                    <td><a href={`${appConfig.BASE_URI}/${imgCids[`${tokenId}.png`]}`} target="_blank" rel="noreferrer"><code>{imgCids[`${tokenId}.png`]}</code></a></td>
                   </tr>
                 ))}
               </tbody>

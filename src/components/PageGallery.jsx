@@ -1,7 +1,7 @@
 import React from 'react';
 
 import appConfig from '../data/app.json';
-import cidData from '../data/cids.json';
+import rootCids from '../data/cids/root.json';
 
 import './PageGallery.css';
 
@@ -20,7 +20,7 @@ function PageGallery() {
         >
           {Array.from(Array(100)).map((val, id) => (
             // eslint-disable-next-line react/no-array-index-key
-            <img key={id} style={{ display: 'block', margin: '4px' }} src={`${appConfig.BASE_URI}/${cidData.rootImg}/${id}.png`} alt={`token #${id}`} />
+            <img key={id} style={{ display: 'block', margin: '4px' }} src={`${appConfig.BASE_URI}/${rootCids.img}/${id}.png`} alt={`token #${id}`} />
           ))}
         </div>
       </div>

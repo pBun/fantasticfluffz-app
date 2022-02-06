@@ -1,5 +1,5 @@
 const appConfig = require('../src/data/app.json');
-const cidData = require('../src/data/cids.json');
+const rootCids = require('../src/data/cids/root.json');
 
 async function main() {
   // eslint-disable-next-line no-undef
@@ -7,7 +7,7 @@ async function main() {
 
   // Start deployment, returning a promise that resolves to a contract object
   const contractObj = await ContractFactory.deploy(
-    `${appConfig.BASE_URI}/${cidData.rootMeta}/`, // base uri
+    `${appConfig.BASE_URI}/${rootCids.meta}/`, // base uri
   );
   await contractObj.deployed();
   console.log('Contract deployed to address:', contractObj.address);
